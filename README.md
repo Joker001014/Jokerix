@@ -32,17 +32,3 @@
 - 9 实现终端 [【Create my OS】9 实现终端 | JokerDebug (joker001014.github.io)](https://joker001014.github.io/blog/034_Create_OS_9/)
 
 
----
-
-ps若无法科学上网的同学，可参考 CSDN 博文（与上述个人博客内容一致）：
-- [【哈工大_操作系统实验】Lab1 熟悉实验环境](https://blog.csdn.net/weixin_53159274/article/details/137797821?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab2 操作系统的引导](https://blog.csdn.net/weixin_53159274/article/details/142370848?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab3 系统调用](https://blog.csdn.net/weixin_53159274/article/details/142684778?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab4 进程运行轨迹的跟踪与统计](https://blog.csdn.net/weixin_53159274/article/details/142732749?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab5 基于内核栈切换的进程切换](https://blog.csdn.net/weixin_53159274/article/details/143029437?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab6 信号量的实现和应用](https://blog.csdn.net/weixin_53159274/article/details/143059098?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab7 地址映射与共享](https://blog.csdn.net/weixin_53159274/article/details/143059233?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab8 终端设备的控制](https://blog.csdn.net/weixin_53159274/article/details/143158944?spm=1001.2014.3001.5501)
-- [【哈工大_操作系统实验】Lab9 proc文件系统的实现](https://blog.csdn.net/weixin_53159274/article/details/143194730?spm=1001.2014.3001.5501)
-
-
