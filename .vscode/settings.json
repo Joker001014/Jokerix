@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "stdarg.h": "c",
+        "ratio": "cpp",
+        "def.h": "c",
+        "consts.h": "c",
+        "thread.h": "c",
+        "context.h": "c",
+        "riscv.h": "c",
+        "*.tcc": "c",
+        "unordered_map": "c",
+        "fstream": "c",
+        "istream": "c",
+        "numeric": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "ulib.h": "c",
+        "random": "c",
+        "syscall.h": "c",
+        "mapping.h": "c",
+        "elf.h": "c",
+        "fs.h": "c",
+        "interrupt.h": "c",
+        "condition.h": "c",
+        "queue.h": "c",
+        "stdin.h": "c"
+    }
+}
